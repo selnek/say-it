@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "name" : "Animals",
+    "image" : "img-animals",
+    "text" : "Everyone want to have some pet at home. They are not only cute, but useful too."
+  },
+  {
+    "id" : 2,
+    "name" : "Fruit",
+    "image" : "img-fruit",
+    "text" : "Do you like a fruit? Who not! Sweet and healthy treasure from nature. Just bite."
+  },
+  {
+    "id" : 3,
+    "name" : "Things",
+    "image" : "img-things",
+    "text" : "They are all around us. Clothes, toys, tools, simple everything what we use in our everyday life."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id" : 1,
+    "english" : "apple",
+    "pronunciation" : "/ˈæpl/",
+    "slovak" : "jablko"
+  },
+  {
+    "id" : 2,
+    "english" : "ball",
+    "pronunciation" : "/bɔːl/",
+    "slovak" : "lopta"
+  },
+  {
+    "id" : 3,
+    "english" : "banana",
+    "pronunciation" : "/bəˈnɑːnə/",
+    "slovak" : "banán"
+  },
+  {
+    "id" : 4,
+    "english" : "cat",
+    "pronunciation" : "/kæt/",
+    "slovak" : "mačka"
+  },
+  {
+    "id" : 5,
+    "english" : "cow",
+    "pronunciation" : "/kaʊ/",
+    "slovak" : "krava"
+  },
+  {
+    "id" : 6,
+    "english" : "dog",
+    "pronunciation" : "/dɒɡ/",
+    "slovak" : "pes"
+  },
+  {
+    "id" : 7,
+    "english" : "donkey",
+    "pronunciation" : "/ˈdɒŋki/",
+    "slovak" : "osol"
+  },
+  {
+    "id" : 8,
+    "english" : "door",
+    "pronunciation" : "/dɔː(r)/",
+    "slovak" : "dvere"
+  },
+  {
+    "id" : 9,
+    "english" : "goat",
+    "pronunciation" : "/ɡəʊt/",
+    "slovak" : "koza"
+  },
+  {
+    "id" : 10,
+    "english" : "goose",
+    "pronunciation" : "/ɡuːs/",
+    "slovak" : "hus"
+  },
+  {
+    "id" : 11,
+    "english" : "grape",
+    "pronunciation" : "/ɡreɪp/",
+    "slovak" : "hrozno"
+  },
+  {
+    "id" : 12,
+    "english" : "horse",
+    "pronunciation" : "/hɔːs/",
+    "slovak" : "kôň"
+  },
+  {
+    "id" : 13,
+    "english" : "chair",
+    "pronunciation" : "/tʃeə(r)/",
+    "slovak" : "stolička"
+  },
+  {
+    "id" : 14,
+    "english" : "chicken",
+    "pronunciation" : "/ˈtʃɪkɪn/",
+    "slovak" : "sliepka"
+  },
+  {
+    "id" : 15,
+    "english" : "key",
+    "pronunciation" : "/kiː/",
+    "slovak" : "kľúč"
+  },
+  {
+    "id" : 16,
+    "english" : "lamp",
+    "pronunciation" : "/læmp/",
+    "slovak" : "lampa"
+  },
+  {
+    "id" : 17,
+    "english" : "lemon",
+    "pronunciation" : "/ˈlemən/",
+    "slovak" : "citrón"
+  },
+  {
+    "id" : 18,
+    "english" : "motorcycle",
+    "pronunciation" : "/ˈməʊtəsaɪkl/",
+    "slovak" : "motocykel"
+  },
+  {
+    "id" : 19,
+    "english" : "orange",
+    "pronunciation" : "/ˈɒrɪndʒ/",
+    "slovak" : "pomaranč"
+  },
+  {
+    "id" : 20,
+    "english" : "peach",
+    "pronunciation" : "/piːtʃ/",
+    "slovak" : "broskyňa"
+  },
+  {
+    "id" : 21,
+    "english" : "pear",
+    "pronunciation" : "/peə(r)/",
+    "slovak" : "hruška"
+  },
+  {
+    "id" : 22,
+    "english" : "plum",
+    "pronunciation" : "/ˈæpl/",
+    "slovak" : "slivka"
+  },
+  {
+    "id" : 23,
+    "english" : "rabbit",
+    "pronunciation" : "/ˈræbɪt/",
+    "slovak" : "zajac"
+  },
+  {
+    "id" : 24,
+    "english" : "scissors",
+    "pronunciation" : "/ˈsɪzəz/",
+    "slovak" : "nožnice"
+  },
+  {
+    "id" : 25,
+    "english" : "sheep",
+    "pronunciation" : "/ʃiːp/",
+    "slovak" : "ovca"
+  },
+  {
+    "id" : 26,
+    "english" : "strawberry",
+    "pronunciation" : "/ˈstrɔːbəri/",
+    "slovak" : "jahoda"
+  },
+  {
+    "id" : 27,
+    "english" : "switch",
+    "pronunciation" : "/swɪtʃ/",
+    "slovak" : "vypínač"
+  },
+  {
+    "id" : 28,
+    "english" : "toilet",
+    "pronunciation" : "/ˈtɔɪlət/",
+    "slovak" : "toaleta"
+  },
+  {
+    "id" : 29,
+    "english" : "watermelon",
+    "pronunciation" : "/ˈwɔːtəmelən/",
+    "slovak" : "melón"
+  },
+  {
+    "id" : 30,
+    "english" : "wheel",
+    "pronunciation" : "/wiːl/",
+    "slovak" : "koleso"
+  },
+]
